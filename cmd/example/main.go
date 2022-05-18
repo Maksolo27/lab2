@@ -43,7 +43,7 @@ func main() {
 	}
 
 	if input == nil {
-		os.Stderr.WriteString("No stdIn defined")
+		os.Stderr.WriteString("Error: No stdIn defined")
 		return
 	}
 
