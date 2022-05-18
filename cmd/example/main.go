@@ -53,6 +53,6 @@ func main() {
 	}
 	err := handler.Compute()
 	if err != nil {
-		println(err) // print err to stderr
+		println(err)
 	}
 }
