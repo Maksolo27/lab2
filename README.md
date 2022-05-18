@@ -23,3 +23,9 @@ Specify output by:
 ## Test
 
 go test
+
+## GitHub Actions
+
+https://github.com/Maksolo27/lab2/actions
+
+Pull requests https://github.com/Maksolo27/lab2/pulls
